@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: prueba3
+  name: prueba
   labels:
     app: observabilidad
     app.bancolombia.com.co/application-code: {{ .Values.applicationCode }}
