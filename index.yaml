@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  observabilidad-stack:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-10-22T10:26:54.662184-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 78faea86a9e34d24f7b9a445ebdb4a4c62e63058590939067584d35c16e5446e
+    name: observabilidad-stack
+    type: application
+    urls:
+    - https://luismenco.github.io/helm-charts/observabilidad-stack-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-22T10:26:54.661772-05:00"

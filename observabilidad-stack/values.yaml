@@ -1,0 +1,7 @@
+namespace: observabilidad-dev
+applicationCode: NU0084001
+costCenter: c103500034
+pmo: PMO32043
+projectName: dcm-observabilidad
+servicesAccount: observabilidad-iam-sa
+replicas: 2

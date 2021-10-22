@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: prueba3
+  labels:
+    app: observabilidad
+    app.bancolombia.com.co/application-code: {{ .Values.applicationCode }}
+    app.bancolombia.com.co/cost-center: {{ .Values.costCenter }}
+    app.bancolombia.com.co/pmo: {{ .Values.pmo }}
+    app.bancolombia.com.co/project-name: {{ .Values.projectName }}
